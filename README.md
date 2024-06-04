@@ -83,4 +83,4 @@ weather-demo/
 - The console outputs detailed error messages for debugging purposes.
 
 ## Contact
-For any issues or questions, please contact [Ahmed Gebali] at [elgebalia34@gmailcom].
+For any issues or questions, please contact Ahmed Gebali at elgebalia34@gmailcom.
