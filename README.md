@@ -18,7 +18,7 @@ WeatherDemo is a Java-based application that provides real-time weather updates 
 ## Installation and Setup
 1. **Clone the Repository**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/ahmedelgebali/-Weather-Information-App-.git
    cd weather-demo
    ```
 
